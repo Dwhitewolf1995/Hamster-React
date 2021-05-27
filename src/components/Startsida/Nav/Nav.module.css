@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Slackey&display=swap');
+
+.navContainer {
+    text-transform: uppercase;
+  
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFF6E6;
+    
+}
+
+a{
+
+    background-color: #F66060 ;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    border:  solid 1px; 
+    width: 100px;
+    height: 40px;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Slackey', cursive;
+    
+}
+    

@@ -1,0 +1,13 @@
+.button{
+    background: #F66060;
+   width: 150px;
+   height: 60px;
+   border-radius: 40px;
+   color: white;
+   font-weight: unset;
+   font-size: 25px;
+   cursor: pointer;
+   font-family: 'Slackey', cursive;
+   border: none;
+
+}

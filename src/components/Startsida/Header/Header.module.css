@@ -1,0 +1,66 @@
+/* .header {
+    min-width: 1920px;
+    min-height: 150px;
+    background-color: #DD3232;
+    color : white;
+    display: grid;
+}
+
+.header { 
+
+    text-align: center;
+    
+   
+}
+
+.logo{
+    font-size: 50px;
+    font-family: 'Slackey', cursive;
+    
+}
+
+.logoImg{
+    width: 100px;
+    border-radius: 50px;
+    display: grid;
+    
+} */
+
+.logoContainer{
+    background-color:  #DD3232;
+    height: 150px;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+
+   
+   
+    
+    
+    
+   
+   
+}
+
+
+
+.logoH, .logoW{
+    
+    font-family: 'Slackey', cursive;
+    color: white;
+    font-size: 3rem;
+
+}
+
+
+
+.logoImg{ 
+    width: 100px;
+    border-radius: 30px;
+    margin-right: 20px;
+    
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Slackey&display=swap');
